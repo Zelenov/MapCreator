@@ -1,0 +1,11 @@
+{
+  "csrftoken": "YOUR_CSRF_TOKEN_HERE",
+  "sessionid": "YOUR_SESSION_ID_HERE",
+  "mid": "YOUR_MID_HERE_OPTIONAL",
+  "instructions": [
+    "1. Replace the placeholder values above with your actual tokens",
+    "2. Save this file as 'instagram_tokens.cookies'",
+    "3. Use the tokens with instagram_fetcher.py",
+    "4. Keep this file secure and don't commit it to version control"
+  ]
+}
